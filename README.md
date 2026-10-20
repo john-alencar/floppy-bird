@@ -4,7 +4,7 @@ A complete, polished Flappy Bird clone built with **Phaser 3** — all graphics 
 
 ## Play
 
-**[Floppy Bird](john-alencar.github.io/floppy-bird/)**
+**[Floppy Bird](https://john-alencar.github.io/floppy-bird/)**
 
 Press **SPACE**, **click**, or **tap** to flap. Navigate through the pipes, track your score, and earn medals.
 
